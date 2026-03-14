@@ -1,0 +1,2 @@
+JOYSTICK_ENABLE = yes
+

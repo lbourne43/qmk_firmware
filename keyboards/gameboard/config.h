@@ -1,0 +1,1 @@
+#define JOYSTICK_AXIS_COUNT 2
